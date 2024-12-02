@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div align=center>
 
  ### Hello, my name is Sedong!
