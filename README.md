@@ -18,7 +18,7 @@
  
  <h4>✨ Call Me ✨</h4>
  <a href="mailto:ksd9638@google.com" target="_blank">
-  <img src="https://img.shields.io/badge/n_box19@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff"/></a>
+  <img src="https://img.shields.io/badge/ksd9638@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff"/></a>
  <br/>
  <br/>
  <br/>
