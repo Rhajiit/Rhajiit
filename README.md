@@ -23,7 +23,7 @@
  <br/>
  <br/>
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dodam0719&layout=compact)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhajiit&layout=compact&theme=tokyonight)
 </div>
 
 <!--
