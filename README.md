@@ -4,8 +4,8 @@
 
  <br />
  
- <h4>🐈 TECH STACK & TOOLS 🐈</h4>
  <div align=left>
+ <h4>🐈 TECH STACK & TOOLS 🐈</h4>
  <h4>Version Management Tool</h4>
  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">&nbsp;
@@ -20,11 +20,10 @@
  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">&nbsp;
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
 
- </div>
- 
  <h4>🐈 Contact 🐈</h4>
  <a href="mailto:ksd9638@google.com" target="_blank">
   <img src="https://img.shields.io/badge/ksd9638@google.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=ffffff"/></a>
+  </div>
  <br/>
  <br/>
  <br/>
